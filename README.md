@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Keerthi-0811
-- 👀 I’m interested in Networking, Artificial Intgeligence, Data Science, Machine Learning.
+- 👀 I’m interested in Data Analytics and Science, Machine Learning, Artificial Intgeligence.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Networking using Machine Learning
+- 💞️ I’m looking to collaborate on Data Analytics.
 - 📫 How to reach me www.linkedin.com/in/saikeerthirega
 
 
